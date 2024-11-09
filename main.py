@@ -1,6 +1,6 @@
-def bar():
+def bar_():
     pass
 
 
-def foo():
+def foo_():
     pass
